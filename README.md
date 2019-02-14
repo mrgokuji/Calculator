@@ -1,2 +1,2 @@
 # Calculator
-A simple Calculator for some basic functions +,-,*,/
+A simple Calculator with some basic functions +,-,*,/
